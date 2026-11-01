@@ -1,0 +1,11 @@
+build/
+*.o
+*.out
+
+.vscode/
+.idea/
+
+*.jpg
+*.jpeg
+*.mp4
+*.avi
